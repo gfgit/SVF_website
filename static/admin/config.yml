@@ -1,0 +1,15 @@
+backend:
+  name: github
+  repo: gfgit/SVF_website
+  squash_merges: true
+  open_authoring: true
+  branch: master
+
+#local_backend: true
+
+site_url: https://gfgit.github.io/SVF_website
+
+publish_mode: editorial_workflow
+
+media_folder: static/images
+public_folder: /images
